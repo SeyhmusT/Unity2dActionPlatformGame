@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7a288af3e93e6e543abf7276211a50cb, type: 3}
+  m_Name: Player Line 1
+  m_EditorClassIdentifier: 
+  speakerName: Player
+  dialogueText: I'm a new game developer!
+  speakerIcon: {fileID: 1150126353, guid: 962ae49d7743d3d42bfcad2267ecbc3f, type: 3}
